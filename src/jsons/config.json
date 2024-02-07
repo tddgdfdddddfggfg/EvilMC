@@ -1,6 +1,6 @@
 {
     "General": {
-        "token":"token-here",
+        "token":"jJ-U7VG_GXYEJr-7y1l8-YfqldrcNIot",
         "countAttacks": 1,
         "jarPath": "jars",
         "autoRestartWithCluster": true,
@@ -8,7 +8,7 @@
         "maxThreads": 2000,
         "maxAttackThreads": 2000,
         "defaultEphemeralError": true,
-        "ownerID": "your-id-here"
+        "ownerID": "1164861087141867572"
     },
 
     "Features": {
